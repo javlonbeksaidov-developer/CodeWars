@@ -3,7 +3,7 @@
     <td width="350" align="center" valign="top">
       <br />
       <a href="https://www.codewars.com/users/Saidov%20Javlonbek">
-        <img src="images/codewars.png" alt="Codewars Image" width="80%" />
+        <img src="images/codewars.png" alt="Codewars Image" width="100%" />
       </a>
     </td>
     <td valign="top">
@@ -13,7 +13,7 @@
       </p>
       <ul>
         <li><b>Dasturlash tili:</b> Python</li>
-        <li><b>Profil:</b> <a [href="https://www.codewars.com/users/Saidov%20Javlonbek](https://www.codewars.com/users/Saidov%20Javlonbek%20)">Saidov Javlonbek</a></li>
+        <li><b>Profil:</b> <a [href="https://www.codewars.com/users/Saidov%20Javlonbek]">Saidov Javlonbek</a></li>
         <li><b>Maqsad:</b> Muammolarni hal qilish (Problem Solving) ko'nikmalarini oshirish va Pythonic, toza kod yozish.</li>
       </ul>
     </td>
