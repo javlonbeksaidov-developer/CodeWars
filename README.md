@@ -13,7 +13,7 @@
       </p>
       <ul>
         <li><b>Dasturlash tili:</b> Python</li>
-        <li><b>Profil:</b> <a [href="https://www.codewars.com/users/Saidov%20Javlonbek]">Saidov Javlonbek</a></li>
+        <li><b>Profil:</b> <a href="https://www.codewars.com/users/Saidov%20Javlonbek">Saidov Javlonbek</a></li>
         <li><b>Maqsad:</b> Muammolarni hal qilish (Problem Solving) ko'nikmalarini oshirish va Pythonic, toza kod yozish.</li>
       </ul>
     </td>
